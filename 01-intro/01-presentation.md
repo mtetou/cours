@@ -1,7 +1,7 @@
 # Introduction
 ## Présentation Générale
-* Nom Prénom
-* Semestre
+* Nom Prénom Age
+* Semestre en cours
 * Etudes précédentes
 * Niveau d'informatique pour le web
 * Métier cible (Ingénieur Réseau/Developpement, etc n'est pas un métier !)
